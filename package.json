@@ -1,0 +1,28 @@
+{
+  "name": "onl29_js_diploma",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volhasheuchyk/onl29_js_diploma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volhasheuchyk/onl29_js_diploma/issues"
+  },
+  "homepage": "https://github.com/volhasheuchyk/onl29_js_diploma#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "server": "^1.0.37"
+  }
+}
